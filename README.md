@@ -18,7 +18,7 @@ Follow the steps below to install OpendTect 6.6 and download the complete datase
 - [Watch the Machine Learing Webinar series](https://videos.opendtect.org/#machinelearningwebinars)
 	These will show the steps needed to make and train your own models, shows you the workflows, goes over some of the basics and theory.
 - [Webinar video: Develop your own Machine Learning tools and workflows with OpendTect](https://videos.opendtect.org/?id=134)
-	This webinar video shows you how to get working with Python and the OpendTect Machine Learning environment. The examples used in this video are available from this repo)
+	This webinar video shows you how to get working with Python and the OpendTect Machine Learning environment.
 - [Develop your own models documentation](https://doc.opendtect.org/6.6.0/doc/ML_devmodels/Default.htm)
 - [Machine Learning Workflow: Wells Log-Log Prediction (Density)](https://static.dgbes.com/images/PDF/1_ML_Wells_Log_Log_Prediction(Density).pdf)
 - [Machine Learning Workflow: Wells Log-Log Prediction (Porosity)](https://static.dgbes.com/images/PDF/1_ML_Wells_Log_Log_Prediction(Porosity).pdf)
