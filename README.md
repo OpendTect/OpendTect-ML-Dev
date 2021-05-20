@@ -6,8 +6,8 @@ Recently two more sets were added in support of the FORCE competition, they can 
 
 Follow the steps below to install OpendTect 6.6 and download the complete datasets.
 
-Step 1: Download the [installer for OpendTect 6.6](https://dgbes.com/index.php/download)
-Step 2: Download the [free datasets](https://terranubis.com/datalist/free) on [TerraNubis](https://terranubis.com/)
+- Step 1: Download the [installer for OpendTect 6.6](https://dgbes.com/index.php/download)
+- Step 2: Download the [free datasets](https://terranubis.com/datalist/free) on [TerraNubis](https://terranubis.com/)
 
 ## Getting started
 - [Watch the Machine Learing Webinar series](https://videos.opendtect.org/#machinelearningwebinars)
