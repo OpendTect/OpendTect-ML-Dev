@@ -1,5 +1,11 @@
 # OpendTect-ML-Dev
 
+## License information
+
+The examples and data on the OpendTect-ML-Dev Repository are licensed under [Creative Commmons BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+
+## Getting started
+
 To get started with Machine Learning in OpendTect several datasets are provided on TerraNubis with which all plugins are available for all users.
 There is ofcourse [F3 offshore the Netherlands](https://terranubis.com/datainfo/F3-Demo-2020) and [Penobscot](https://terranubis.com/datainfo/Penobscot).
 Recently two more sets were added in support of the FORCE competition, they can be found on [TerraNubis](https://terranubis.com/)
@@ -9,7 +15,6 @@ Follow the steps below to install OpendTect 6.6 and download the complete datase
 - Step 1: Download the [installer for OpendTect 6.6](https://dgbes.com/index.php/download)
 - Step 2: Download the [free datasets](https://terranubis.com/datalist/free) on [TerraNubis](https://terranubis.com/)
 
-## Getting started
 - [Watch the Machine Learing Webinar series](https://videos.opendtect.org/#machinelearningwebinars)
 	These will show the steps needed to make and train your own models, shows you the workflows, goes over some of the basics and theory.
 - [Webinar video: Develop your own Machine Learning tools and workflows with OpendTect](https://videos.opendtect.org/?id=134)
