@@ -19,14 +19,14 @@ Videos:
 
 - [Watch the Machine Learing Webinar series](https://videos.opendtect.org/#machinelearningwebinars)
 
-...These will show the steps needed to make and train your own models, shows you the workflows, goes over some of the basics and theory.
+   These will show the steps needed to make and train your own models, shows you the workflows, goes over some of the basics and theory.
 
 - [Webinar video: Creating and Adding New Models](https://videos.opendtect.org/?id=12)
 
 - [Webinar video: Develop your own Machine Learning tools and workflows with OpendTect](https://videos.opendtect.org/?id=134)
 
-...This webinar video shows you how to get working with Python and the OpendTect Machine Learning environment.
-...Download the examples [here](https://github.com/OpendTect/OpendTect-ML-Dev/tree/main/webinars/2021-04-22)
+   This webinar video shows you how to get working with Python and the OpendTect Machine Learning environment.
+   Download the examples [here](https://github.com/OpendTect/OpendTect-ML-Dev/tree/main/webinars/2021-04-22)
 
 - [Webinar video: How to prepare well logs to get optimal Machine Learning results](https://videos.opendtect.org/?id=135)
 
