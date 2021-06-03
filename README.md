@@ -15,6 +15,15 @@ Follow the steps below to install OpendTect 6.6 and download the complete datase
 - Step 1: Download the [installer for OpendTect 6.6](https://dgbes.com/index.php/download)
 - Step 2: Download the [free datasets](https://terranubis.com/datalist/free) on [TerraNubis](https://terranubis.com/)
 
+## Contents of this repository
+
+Webinar examples:
+
+- [2020-04-22: Develop your own Machine Learning tools and workflows with OpendTect](https://github.com/OpendTect/OpendTect-ML-Dev/tree/main/webinars/2021-04-22)
+- [2020-04-29: How to prepare well logs to get optimal Machine Learning results](https://github.com/OpendTect/OpendTect-ML-Dev/tree/main/webinars/2021-04-29)
+
+## Videos
+
 Videos:
 
 - [Watch the Machine Learing Webinar series](https://videos.opendtect.org/#machinelearningwebinars)
@@ -30,12 +39,17 @@ Videos:
 
 - [Webinar video: How to prepare well logs to get optimal Machine Learning results](https://videos.opendtect.org/?id=135)
 
-Development documentation:
+   This webinar video shows you methods to extract the best set of training well data while also getting optimal prediction performance.
+   Download the examples [here](https://github.com/OpendTect/OpendTect-ML-Dev/tree/main/webinars/2021-04-29)
+
+## Documentation
+
+Development:
 
 - [Develop your own models documentation](https://doc.opendtect.org/6.6.0/doc/ML_devmodels/Default.htm)
 - [odpy documentation](https://doc.opendtect.org/6.6.0/doc/Programmer/odpy/index.html)
 
-Workflows documentation:
+Workflows:
 
 - [Machine Learning Workflow: Wells Log-Log Prediction (Density)](https://static.dgbes.com/images/PDF/1_ML_Wells_Log_Log_Prediction(Density).pdf)
 - [Machine Learning Workflow: Wells Log-Log Prediction (Porosity)](https://static.dgbes.com/images/PDF/1_ML_Wells_Log_Log_Prediction(Porosity).pdf)
