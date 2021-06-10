@@ -10,3 +10,8 @@ The webinar video can be viewed from these links:
 - https://videos.opendtect.org/?id=135
 - https://youtu.be/HN5v2lgeEKU
 
+### OpendTect Machine Learning Developers' Community on Discord
+<img src="https://dgbes.com/images/discord_logo.svg" width="200px" alt="OpendTect Machine Learning Developers Community" />
+- For more information and help join the [OpendTect Machine Learning Developers' Community on Discord](https://discord.gg/9cVrW2sNza)
+- For more information on how to become a member and be part of the Community please read the [FAQ](https://dgbes.com/index.php/support/faq-opendtect-machine-learning-developers-community-discord-server)
+

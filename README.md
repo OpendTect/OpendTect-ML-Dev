@@ -22,6 +22,11 @@ Webinar examples:
 - [2020-04-22: Develop your own Machine Learning tools and workflows with OpendTect](https://github.com/OpendTect/OpendTect-ML-Dev/tree/main/webinars/2021-04-22)
 - [2020-04-29: How to prepare well logs to get optimal Machine Learning results](https://github.com/OpendTect/OpendTect-ML-Dev/tree/main/webinars/2021-04-29)
 
+## OpendTect Machine Learning Developers' Community on Discord
+<img src="https://dgbes.com/images/discord_logo.svg" width="200px" alt="OpendTect Machine Learning Developers Community" />
+- For more information and help join the [OpendTect Machine Learning Developers' Community on Discord](https://discord.gg/9cVrW2sNza)
+- For more information on how to become a member and be part of the Community please read the [FAQ](https://dgbes.com/index.php/support/faq-opendtect-machine-learning-developers-community-discord-server)
+
 ## Videos
 
 Videos:
