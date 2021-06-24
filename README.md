@@ -13,6 +13,7 @@ Recently two more sets were added in support of the FORCE competition, they can 
 Follow the steps below to install OpendTect 6.6 and download the complete datasets.
 
 - Step 1: Download the [installer for OpendTect 6.6](https://dgbes.com/index.php/download)
+
 - Step 2: Download the [free datasets](https://terranubis.com/datalist/free) on [TerraNubis](https://terranubis.com/)
 
 ## Contents of this repository
@@ -20,11 +21,16 @@ Follow the steps below to install OpendTect 6.6 and download the complete datase
 Webinar examples:
 
 - [2020-04-22: Develop your own Machine Learning tools and workflows with OpendTect](https://github.com/OpendTect/OpendTect-ML-Dev/tree/main/webinars/2021-04-22)
+
 - [2020-04-29: How to prepare well logs to get optimal Machine Learning results](https://github.com/OpendTect/OpendTect-ML-Dev/tree/main/webinars/2021-04-29)
 
 ## OpendTect Machine Learning Developers' Community on Discord
+
 <img src="https://dgbes.com/images/discord_logo.svg" width="200px" alt="OpendTect Machine Learning Developers Community" />
+
+
 - For more information and help join the [OpendTect Machine Learning Developers' Community on Discord](https://discord.gg/9cVrW2sNza)
+
 - For more information on how to become a member and be part of the Community please read the [FAQ](https://dgbes.com/index.php/support/faq-opendtect-machine-learning-developers-community-discord-server)
 
 ## Videos
