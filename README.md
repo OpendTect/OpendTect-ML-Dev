@@ -7,8 +7,7 @@ The examples and data on the OpendTect-ML-Dev Repository are licensed under [Cre
 ## Getting started
 
 To get started with Machine Learning in OpendTect several datasets are provided on TerraNubis with which all plugins are available for all users.
-There is ofcourse [F3 offshore the Netherlands](https://terranubis.com/datainfo/F3-Demo-2020) and [Penobscot](https://terranubis.com/datainfo/Penobscot).
-Recently two more sets were added in support of the FORCE competition, they can be found on [TerraNubis](https://terranubis.com/)
+There is [F3 offshore the Netherlands](https://terranubis.com/datainfo/F3-Demo-2020), [Penobscot](https://terranubis.com/datainfo/Penobscot), [FORCE ML Competition 2020](https://terranubis.com/datainfo/FORCE-ML-Competition-2020), [FORCE ML Competition 2020 Synthethic Models and Wells](https://terranubis.com/datainfo/FORCE-ML-Competition-2020-Synthetic-Models-and-Wells) and the recently added [Delft](https://terranubis.com/datainfo/Delft). These can all be found on [TerraNubis](https://terranubis.com/)
 
 Follow the steps below to install OpendTect 6.6 and download the complete datasets.
 
@@ -17,6 +16,10 @@ Follow the steps below to install OpendTect 6.6 and download the complete datase
 - Step 2: Download the [free datasets](https://terranubis.com/datalist/free) on [TerraNubis](https://terranubis.com/)
 
 ## Contents of this repository
+
+Challenges:
+
+- [July 2021: ML Fault Prediction Challenge](https://github.com/OpendTect/OpendTect-ML-Dev/tree/main/challenges/2021-ML-Fault-Prediction-Challenge)
 
 Webinar examples:
 
