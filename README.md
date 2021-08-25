@@ -71,4 +71,5 @@ Workflows:
 - [Machine Learning Workflow: Seismic Unet 3D Fault Predictor](https://static.dgbes.com/images/PDF/4_ML_Seismic_Unet3DFaultPredictor.pdf)
 - [Machine Learning Workflow: 3D Seismic + Wells Rock Property Prediction](https://static.dgbes.com/images/PDF/5_ML_3D_SeismicWells_RockPropertyPrediction.pdf)
 - [Machine Learning Workflow: Seismic Image to Image Faults Prediction](https://static.dgbes.com/images/PDF/6_ML_Seismic_Image_to_Image_Faults_Prediction.pdf)
+- [Machine Learning Workflow: Seismic Image Regression Unet Fill Seismic Traces](https://static.dgbes.com/images/PDF/7_ML_SeismicImageRegression_UnetFillSeismicTraces.pdf)
 
