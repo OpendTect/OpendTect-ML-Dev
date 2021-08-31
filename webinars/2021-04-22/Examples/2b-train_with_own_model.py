@@ -15,7 +15,7 @@ from myPythonRepo import unet3d
 
 expath = os.path.join(os.path.dirname(os.path.abspath(__file__)),'data')
 
-imgexfilenm = os.path.join(expath,'Fault_Likelihood_input_single_surv_single_attr_dBG.h5')
+imgexfilenm = os.path.join(expath,'Fault_Likelihood_input_single_surv_single_attr.h5')
 imgdp = dgbmlapply.getScaledTrainingData(imgexfilenm, split=0.2)
 
 infos = imgdp[dgbkeys.infodictstr]
