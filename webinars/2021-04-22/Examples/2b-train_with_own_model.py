@@ -3,6 +3,8 @@
 This is a test script file.
 """
 
+import os
+
 from dgbpy import hdf5 as dgbhdf5
 from dgbpy import dgbkeras
 from dgbpy import mlio as dgbmlio
@@ -11,8 +13,9 @@ from dgbpy import keystr as dgbkeys
 
 from myPythonRepo import unet3d
 
+expath = os.path.join(os.path.dirname(os.path.abspath(__file__)),'data')
 
-imgexfilenm = 'P:\\Git\\python-dgb-ml\\exampledata\\Fault_Likelihood_input_single_surv_single_attr_dBG.h5'
+imgexfilenm = os.path.join(expath,'Fault_Likelihood_input_single_surv_single_attr_dBG.h5')
 imgdp = dgbmlapply.getScaledTrainingData(imgexfilenm, split=0.2)
 
 infos = imgdp[dgbkeys.infodictstr]
