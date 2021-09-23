@@ -3,8 +3,8 @@
 Here you can download the Jupyter Notebook used in the webinar of September 22, 2021 during Friso Brouwer's presentation.
 
 The webinar video can be viewed from these links:
-- 
-- 
+- https://videos.opendtect.org/?id=138 
+- https://youtu.be/TBR1DUylYUA
 
 ### OpendTect Machine Learning Developers' Community on Discord
 
