@@ -23,9 +23,12 @@ Challenges:
 
 Webinar examples:
 
-- [2020-04-22: Develop your own Machine Learning tools and workflows with OpendTect](https://github.com/OpendTect/OpendTect-ML-Dev/tree/main/webinars/2021-04-22)
+- [2022-02-17: Porting Machine Learning horizon tracking Notebook to OpendTect](https://github.com/OpendTect/OpendTect-ML-Dev/tree/main/webinars/2021-02-17)
 
-- [2020-04-29: How to prepare well logs to get optimal Machine Learning results](https://github.com/OpendTect/OpendTect-ML-Dev/tree/main/webinars/2021-04-29)
+- [2021-04-29: How to prepare well logs to get optimal Machine Learning results](https://github.com/OpendTect/OpendTect-ML-Dev/tree/main/webinars/2021-04-29)
+
+- [2021-04-22: Develop your own Machine Learning tools and workflows with OpendTect](https://github.com/OpendTect/OpendTect-ML-Dev/tree/main/webinars/2021-04-22)
+
 
 ## OpendTect Machine Learning Developers' Community on Discord
 
@@ -43,6 +46,11 @@ Videos:
 - [Watch the Machine Learing Webinar series](https://videos.opendtect.org/#machinelearningwebinars)
 
    These will show the steps needed to make and train your own models, shows you the workflows, goes over some of the basics and theory.
+
+- [Webinar video: Porting Machine Learning horizon tracking Notebook to OpendTect](https://videos.opendtect.org/?id=143)
+
+   This webinar video shows you how to run a python notebook who's purpose is to do automated horizon interpretation.
+   Download the examples [here](https://github.com/OpendTect/OpendTect-ML-Dev/tree/main/webinars/2022-02-17)
 
 - [Webinar video: Creating and Adding New Models](https://videos.opendtect.org/?id=12)
 
