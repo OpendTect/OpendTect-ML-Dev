@@ -23,7 +23,7 @@ Challenges:
 
 Webinar examples:
 
-- [2022-02-17: Porting Machine Learning horizon tracking Notebook to OpendTect](https://github.com/OpendTect/OpendTect-ML-Dev/tree/main/webinars/2021-02-17)
+- [2022-02-17: Porting Machine Learning horizon tracking Notebook to OpendTect](https://github.com/OpendTect/OpendTect-ML-Dev/tree/main/webinars/2022-02-17)
 
 - [2021-04-29: How to prepare well logs to get optimal Machine Learning results](https://github.com/OpendTect/OpendTect-ML-Dev/tree/main/webinars/2021-04-29)
 
