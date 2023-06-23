@@ -1,6 +1,6 @@
 ## Webinar 2023-06-15: Building and Training Your Own 2D CNN Model with OpendTect
 
-Here you can download the Jupyter Notebook used in the webinar of June 06, 2023 during first session of dGB Earth Science's back-to-back webinar.
+Here you can download the Jupyter Notebook used in the webinar of June 15, 2023 during first session of dGB Earth Science's back-to-back webinar.
 
 The webinar video can be viewed from these links:
 - https://videos.opendtect.org/?id=165
@@ -36,5 +36,5 @@ dgbmlio.saveModel(model, imagexfilenm, dgbkeys.kerasplfnm, infos, '2D_UNet_VGG19
 
 - For more information and help join the [OpendTect Machine Learning Developers' Community on Discord](https://discord.gg/9cVrW2sNza)
 
-- For more information on how to become a member and be part of the Community please read the [FAQ](https://dgbes.com/index.php/support/faq-opendtect-machine-learning-developers-community-discord-server)
+- For more information on how to become a member and be part of the Community please read the [FAQ](https://dgbes.com/support/faq-opendtect-machine-learning-developers-community-discord-server)
 
