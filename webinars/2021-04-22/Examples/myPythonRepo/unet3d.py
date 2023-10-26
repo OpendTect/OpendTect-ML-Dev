@@ -6,7 +6,7 @@ import numpy as np
 from keras.models import *
 from keras.layers import *
 from keras.optimizers import *
-from keras import backend as keras
+from keras import backend as K
 
 def unet_AH(input_size = (128,128,128,1)):
     inputs = Input(input_size)
